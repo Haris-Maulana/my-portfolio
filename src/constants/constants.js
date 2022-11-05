@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Calculator',
     description: "Using basic html for creating a simple calculator - from start to finish.",
-      image: '../../public/images/1.png',
+      image: '/images/1.png',
       tags: ['HTML&Css', 'Javascript'],
     source: 'https://haris-maulana.github.io/Calculator/',
     visit: 'https://github.com/Haris-Maulana/Calculator',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Password Generator',
     description:"While building it you're going to learn many React & JavaScript even though it simple as it is",
-    image: '../../public/images/2.png',
+    image: '/images/2.png',
     tags: ['Html&Css', 'JavaScript', 'Bootstrap'],
     source: 'https://haris-maulana.github.io/pass-generator/',
     visit: 'https://github.com/Haris-Maulana/pass-generator',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'On Going Project',
     description: "Check my channel on github to see more Update come",
-      image: '../../public/images/3.png',
+      image: '/images/3.png',
       tags: ['Github'],
     source: 'https://github.com/Haris-Maulana',
     visit: 'https://github.com/Haris-Maulana',
